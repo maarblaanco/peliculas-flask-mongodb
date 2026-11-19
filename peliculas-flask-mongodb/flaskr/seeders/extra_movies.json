@@ -1,0 +1,242 @@
+[
+    {
+        "title": "10 Cloverfield Lane",
+        "slug": "10-cloverfield-lane",
+        "uri": "http://www.wikidata.org/entity/Q18703038",
+        "release_date": {
+            "$date": "2016-03-08T00:00:00Z"
+        },
+        "duration": 103,
+        "thumbnail": "http://commons.wikimedia.org/wiki/Special:FilePath/10%20Cloverfield%20Lane%20Logo.png",
+        "director": "Dan Trachtenberg",
+        "genres": [
+            "Action"
+        ],
+        "actors": [
+            {
+                "name": "Bradley Cooper",
+                "date_of_birth": "1975-01-05T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Mary Elizabeth Winstead",
+                "date_of_birth": "1984-11-28T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "John Goodman",
+                "date_of_birth": "1952-06-20T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "John Gallagher Jr.",
+                "date_of_birth": "1984-06-17T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "John Gallagher Jr.",
+                "date_of_birth": "1984-06-27T00:00:00Z",
+                "biography": ""
+            }
+        ],
+        "reviews": [],
+        "created_at": {
+            "$date": "2026-01-11T22:10:14.911186Z"
+        },
+        "updated_at": {
+            "$date": "2026-01-11T22:10:14.911211Z"
+        }
+    },
+    {
+        "title": "Independence Day 2",
+        "slug": "independence-day-2",
+        "uri": "http://www.wikidata.org/entity/Q19614711",
+        "release_date": {
+            "$date": "2016-09-08T00:00:00Z"
+        },
+        "duration": 120,
+        "thumbnail": "http://commons.wikimedia.org/wiki/Special:FilePath/London%20June%2021%202016%20070%20Independence%20Day%20Resurgence%20%285%29%20%2827746562621%29.jpg",
+        "director": "Roland Emmerich",
+        "genres": [
+            "Action"
+        ],
+        "actors": [
+            {
+                "name": "Liam Hemsworth",
+                "date_of_birth": "1990-01-13T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Jeff Goldblum",
+                "date_of_birth": "1952-10-22T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Joey King",
+                "date_of_birth": "1999-07-30T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "William Fichtner",
+                "date_of_birth": "1956-11-27T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Vivica A. Fox",
+                "date_of_birth": "1964-07-30T00:00:00Z",
+                "biography": ""
+            }
+        ],
+        "reviews": [],
+        "created_at": {
+            "$date": "2026-01-11T22:10:15.231033Z"
+        },
+        "updated_at": {
+            "$date": "2026-01-11T22:10:15.231058Z"
+        }
+    },
+    {
+        "title": "Star Wars: Episodio VII - El despertar de la Fuerza",
+        "slug": "star-wars-episodio-vii---el-despertar-de-la-fuerza",
+        "uri": "http://www.wikidata.org/entity/Q6074",
+        "release_date": {
+            "$date": "2015-12-16T00:00:00Z"
+        },
+        "duration": 138,
+        "thumbnail": "http://commons.wikimedia.org/wiki/Special:FilePath/Star%20Wars%20The%20Force%20Awakens.jpg",
+        "director": "J. J. Abrams",
+        "genres": [
+            "Action"
+        ],
+        "actors": [
+            {
+                "name": "Daniel Craig",
+                "date_of_birth": "1968-03-02T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Bill Hader",
+                "date_of_birth": "1978-06-07T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Judah Friedlander",
+                "date_of_birth": "1969-03-16T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Harrison Ford",
+                "date_of_birth": "1942-07-13T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Alec Guinness",
+                "date_of_birth": "1914-04-02T00:00:00Z",
+                "biography": ""
+            }
+        ],
+        "reviews": [],
+        "created_at": {
+            "$date": "2026-01-11T22:10:15.590182Z"
+        },
+        "updated_at": {
+            "$date": "2026-01-11T22:10:15.590192Z"
+        }
+    },
+    {
+        "title": "Los juegos del hambre: Sinsajo- Parte 2",
+        "slug": "los-juegos-del-hambre-sinsajo--parte-2",
+        "uri": "http://www.wikidata.org/entity/Q10307713",
+        "release_date": {
+            "$date": "2015-11-20T00:00:00Z"
+        },
+        "duration": 137,
+        "thumbnail": "http://commons.wikimedia.org/wiki/Special:FilePath/The-hunger-games-mockingjay---part-2-.svg",
+        "director": "Francis Lawrence",
+        "genres": [
+            "Action"
+        ],
+        "actors": [
+            {
+                "name": "Liam Hemsworth",
+                "date_of_birth": "1990-01-13T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Julianne Moore",
+                "date_of_birth": "1960-12-03T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Donald Sutherland",
+                "date_of_birth": "1935-07-17T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Philip Seymour Hoffman",
+                "date_of_birth": "1967-07-23T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Jennifer Lawrence",
+                "date_of_birth": "1990-08-15T00:00:00Z",
+                "biography": ""
+            }
+        ],
+        "reviews": [],
+        "created_at": {
+            "$date": "2026-01-11T22:10:15.968621Z"
+        },
+        "updated_at": {
+            "$date": "2026-01-11T22:10:15.968645Z"
+        }
+    },
+    {
+        "title": "Wolf Warrior 2",
+        "slug": "wolf-warrior-2",
+        "uri": "http://www.wikidata.org/entity/Q27964540",
+        "release_date": {
+            "$date": "2018-02-22T00:00:00Z"
+        },
+        "duration": 126,
+        "thumbnail": "http://commons.wikimedia.org/wiki/Special:FilePath/CELINA%20JADE%20with%20WU%20JING%20%28Wolf%20Warrior%202%29.jpg",
+        "director": "Wu Jing",
+        "genres": [
+            "Action"
+        ],
+        "actors": [
+            {
+                "name": "Yu Nan",
+                "date_of_birth": "1978-09-05T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Oleg Prudius",
+                "date_of_birth": "1979-04-27T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Wu Jing",
+                "date_of_birth": "1974-04-03T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Frank Grillo",
+                "date_of_birth": "1963-06-08T00:00:00Z",
+                "biography": ""
+            },
+            {
+                "name": "Frank Grillo",
+                "date_of_birth": "1965-06-08T00:00:00Z",
+                "biography": ""
+            }
+        ],
+        "reviews": [],
+        "created_at": {
+            "$date": "2026-01-11T22:10:16.185156Z"
+        },
+        "updated_at": {
+            "$date": "2026-01-11T22:10:16.185181Z"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+<http://www.wikidata.org/entity/Q18703038> <http://schema.org/name> "10 Cloverfield Lane" .
+<http://www.wikidata.org/entity/Q18703038> <http://schema.org/director> "Dan Trachtenberg" .
+<http://www.wikidata.org/entity/Q18703038> <http://schema.org/datePublished> "2016-03-08" .
+<http://www.wikidata.org/entity/Q18703038> <http://schema.org/duration> "103" .
+
+<http://www.wikidata.org/entity/Q19614711> <http://schema.org/name> "Independence Day 2" .
+<http://www.wikidata.org/entity/Q19614711> <http://schema.org/director> "Roland Emmerich" .
+<http://www.wikidata.org/entity/Q19614711> <http://schema.org/datePublished> "2016-09-08" .
+<http://www.wikidata.org/entity/Q19614711> <http://schema.org/duration> "120" .
+
+<http://www.wikidata.org/entity/Q6074> <http://schema.org/name> "Star Wars: Episodio VII - El despertar de la Fuerza" .
+<http://www.wikidata.org/entity/Q6074> <http://schema.org/director> "J. J. Abrams" .
+<http://www.wikidata.org/entity/Q6074> <http://schema.org/datePublished> "2015-12-16" .
+<http://www.wikidata.org/entity/Q6074> <http://schema.org/duration> "138" .
+
+<http://www.wikidata.org/entity/Q10307713> <http://schema.org/name> "Los juegos del hambre: Sinsajo- Parte 2" .
+<http://www.wikidata.org/entity/Q10307713> <http://schema.org/director> "Francis Lawrence" .
+<http://www.wikidata.org/entity/Q10307713> <http://schema.org/datePublished> "2015-11-20" .
+<http://www.wikidata.org/entity/Q10307713> <http://schema.org/duration> "137" .
+
+<http://www.wikidata.org/entity/Q27964540> <http://schema.org/name> "Wolf Warrior 2" .
+<http://www.wikidata.org/entity/Q27964540> <http://schema.org/director> "Wu Jing" .
+<http://www.wikidata.org/entity/Q27964540> <http://schema.org/datePublished> "2018-02-22" .
+<http://www.wikidata.org/entity/Q27964540> <http://schema.org/duration> "126" .
+
